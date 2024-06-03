@@ -1,0 +1,7 @@
+{
+    "nombre": "h",
+    "cant_parcelas_autos": 12,
+    "cant_parcelas_motos": 12,
+    "coste_hora_auto": 100.0,
+    "coste_hora_moto": 100.0
+}
