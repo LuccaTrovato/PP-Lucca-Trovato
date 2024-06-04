@@ -8,6 +8,7 @@ path_estacionamientos = "db_estacionamientos.json"
 #ESTACIONAMIENTOS = estacionamiento_leer(path_estacionamientos)
 
 
+
 '''
 [MENU]
 [1] Nuevo estacionamiento
@@ -35,25 +36,18 @@ def main():
                 punto_3()
             case 4:
                 punto_4()
-                
             case 5:
                 punto_5()
-                
             case 6:
                 punto_6()
-                
             case 7:
                 punto_7()
-                
             case 8:
                 punto_8()
-                
             case 9:
                 punto_9()
-                
             case 10:
                 punto_10()
-                
             case 0:
                 print(f"\nSaliendo")
                 break

@@ -1,7 +1,23 @@
-{
-    "nombre": "h",
-    "cant_parcelas_autos": 12,
-    "cant_parcelas_motos": 12,
-    "coste_hora_auto": 100.0,
-    "coste_hora_moto": 100.0
-}
+[
+    {
+        "nombre": "hola",
+        "cant_parcelas_autos": 1,
+        "cant_parcelas_motos": 1,
+        "coste_hora_auto": 1.0,
+        "coste_hora_moto": 1.0
+    },
+    {
+        "nombre": "gjf",
+        "cant_parcelas_autos": 3,
+        "cant_parcelas_motos": 3,
+        "coste_hora_auto": 3.0,
+        "coste_hora_moto": 3.0
+    },
+    {
+        "nombre": "ultimo",
+        "cant_parcelas_autos": 3,
+        "cant_parcelas_motos": 3,
+        "coste_hora_auto": 3.0,
+        "coste_hora_moto": 3.0
+    }
+]
